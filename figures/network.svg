@@ -1,0 +1,1415 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="980.77301"
+   height="782.92188"
+   viewBox="0 0 980.77301 782.92188"
+   id="svg120"
+   sodipodi:docname="network.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   inkscape:export-filename="network.png"
+   inkscape:export-xdpi="500"
+   inkscape:export-ydpi="500"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs120" />
+  <sodipodi:namedview
+     id="namedview120"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.1746253"
+     inkscape:cx="348.10595"
+     inkscape:cy="510.43277"
+     inkscape:window-width="1908"
+     inkscape:window-height="987"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g102"
+     showgrid="false" />
+  <title
+     id="title1" />
+  <desc
+     id="desc1">Creator: Creator: Cytoscape via FreeHEP Graphics2D Driver Producer: org.freehep.graphicsio.svg.SVGGraphics2D Source: </desc>
+  <g
+     stroke-dashoffset="0"
+     stroke-linejoin="miter"
+     stroke-dasharray="none"
+     stroke-width="1"
+     stroke-linecap="square"
+     stroke-miterlimit="10"
+     id="g120"
+     transform="translate(-281.04266,-54.078074)">
+    <g
+       fill="#ffffff"
+       fill-rule="nonzero"
+       fill-opacity="1"
+       stroke="none"
+       id="g1"
+       transform="matrix(0.98172595,0,0,0.98172595,13.135788,7.295379)"
+       style="stroke-width:1.01861" />
+    <!-- drawing style -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g3"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g2">
+        <path
+           d="m -200.72726,320.94885 -6.89208,-78.80641"
+           id="path2"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g5"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g4">
+        <path
+           d="M -60.320431,139.91992 -200.00169,226.89473"
+           id="path3"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g7"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g6">
+        <path
+           d="M -154.44022,86.441376 -205.01331,222.8045"
+           id="path5"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g9"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g8">
+        <path
+           d="M -51.392841,196.22145 -198.74268,229.94922"
+           id="path7"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g11"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g10">
+        <path
+           d="m -251.73827,157.39568 38.24157,66.12808"
+           id="path9"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g13"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g12">
+        <path
+           d="m 238.01486,-284.14862 77.81708,26.17444"
+           id="path11"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g15"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g14">
+        <path
+           d="m 252.8026,-186.79953 65.21272,-61.14658"
+           id="path13"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g17"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g16">
+        <path
+           d="M -157.32541,9.1107588 -199.15149,-73.113274"
+           id="path15"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g19"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g18">
+        <path
+           d="M -21.898207,45.528076 -143.00517,20.080219"
+           id="path17"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g21"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g20">
+        <path
+           d="M -162.51259,20.369005 -317.35278,57.72308"
+           id="path19"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g23"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g22">
+        <path
+           d="M -58.377068,127.07401 -146.24594,25.58403"
+           id="path21"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g25"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g24">
+        <path
+           d="m -152.4819,28.019064 1.20939,39.051142"
+           id="path23"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g27"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g26">
+        <path
+           d="m -159.01578,25.850595 -91.5043,115.061635"
+           id="path25"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g29"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g28">
+        <path
+           d="M -21.35306,51.405613 -247.50327,144.9178"
+           id="path27"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g31"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g30">
+        <path
+           d="M 47.769646,-32.95554 -6.1453514,39.559475"
+           id="path29"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g33"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g32">
+        <path
+           d="M -47.680401,125.5365 -16.263075,56.682125"
+           id="path31"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g35"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g34">
+        <path
+           d="M -48.474407,186.68552 -144.13348,84.370102"
+           id="path33"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g37"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g36">
+        <path
+           d="M -51.430744,191.93153 -246.9586,150.79764"
+           id="path35"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g39"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g38">
+        <path
+           d="M 61.879932,-35.177063 137.55115,18.748365"
+           id="path37"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g41"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g40">
+        <path
+           d="m 332.35287,-132.81772 -78.05645,-42.37112"
+           id="path39"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g43"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g42">
+        <path
+           d="m 230.09781,-277.45932 13.84881,87.62238"
+           id="path41"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g45"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g44">
+        <path
+           d="m 160.09651,-116.28674 77.39392,-57.696"
+           id="path43"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g47"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g46">
+        <path
+           d="M 143.90601,-104.54805 61.909386,-46.74239"
+           id="path45"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g49"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g48">
+        <path
+           d="m 23.804245,-134.17595 26.874077,83.674455"
+           id="path47"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g51"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g50">
+        <path
+           d="M -61.807949,135.32089 -246.76801,148.05226"
+           id="path49"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g53"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g52">
+        <path
+           d="M -60.479118,129.61227 -142.31538,82.087334"
+           id="path51"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g55"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g54">
+        <path
+           d="M -317.12018,61.028908 -160.9167,76.104736"
+           id="path53"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g57"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g56">
+        <path
+           d="m -248.46576,143.12967 89.22417,-60.454964"
+           id="path55"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g59"
+       style="stroke-width:1.01861">
+      <g
+         stroke-opacity="0.392157"
+         stroke-width="2.03723"
+         fill="none"
+         stroke="#848484"
+         stroke-linecap="round"
+         id="g58">
+        <path
+           d="m -320.85971,67.903015 57.90112,73.001175"
+           id="path57"
+           style="stroke-width:2.03723" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g61"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g60"
+         style="stroke-width:1.01861">
+        <path
+           d="m -198.49057,232.18047 c 0,5.52284 -4.47715,10 -10,10 -5.52285,0 -10,-4.47716 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           id="path59"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,436.79718,669.94231)"
+       id="g62"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text61"
+         style="stroke-width:1.01861">Trust in Local Authorities to</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,451.47121,690.47239)"
+       id="g63"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text62"
+         style="stroke-width:1.01861">Manage Flooding (Q12)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g65"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g64"
+         style="stroke-width:1.01861">
+        <path
+           d="m 335.31015,-254.78609 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52286 4.47715,-10.00001 10,-10.00001 5.52285,0 10,4.47715 10,10.00001 z"
+           id="path63"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,1120.546,115.57103)"
+       id="g66"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text65"
+         style="stroke-width:1.01861">Zone (Q2)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g68"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g67"
+         style="stroke-width:1.01861">
+        <path
+           d="m -142.79146,18.023854 c 0,5.522848 -4.47715,10 -10,10 -5.52285,0 -10,-4.477152 -10,-10 0,-5.522847 4.47715,-9.9999997 10,-9.9999997 5.52285,0 10,4.4771527 10,9.9999997 z"
+           id="path66"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,514.09462,431.89338)"
+       id="g69"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text68"
+         style="stroke-width:1.01861">Flooding Assistance (Q8)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g71"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g70"
+         style="stroke-width:1.01861">
+        <path
+           d="m -2.1119213,47.584438 c 0,5.522848 -4.4771525,10 -9.9999997,10 -5.522848,0 -10,-4.477152 -10,-10 0,-5.522847 4.477152,-10 10,-10 5.5228472,0 9.9999997,4.477153 9.9999997,10 z"
+           id="path69"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,674.36324,466.16879)"
+       id="g72"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text71"
+         style="stroke-width:1.01861">Affected by Flooding (Q5)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g74"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g73"
+         style="stroke-width:1.01861">
+        <path
+           d="m -31.644945,193.9902 c 0,5.52285 -4.477152,10 -9.999999,10 -5.522847,0 -9.999999,-4.47715 -9.999999,-10 0,-5.52284 4.477152,-10 9.999999,-10 5.522847,0 9.999999,4.47716 9.999999,10 z"
+           id="path72"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,635.89169,625.66081)"
+       id="g75"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text74"
+         style="stroke-width:1.01861">Sufficient Neighbourhood</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,643.81279,646.1909)"
+       id="g76"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text75"
+         style="stroke-width:1.01861">Flooding Response (Q9)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g78"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g77"
+         style="stroke-width:1.01861">
+        <path
+           d="m 155.69485,24.551805 c 0,5.522847 -4.47715,10 -10,10 -5.52284,0 -10,-4.477153 -10,-10 0,-5.522848 4.47716,-10 10,-10 5.52285,0 10,4.477152 10,10 z"
+           id="path76"
+           style="stroke-width:1.01861" />
+        <text
+           xml:space="preserve"
+           style="font-size:13.5469px;line-height:normal;font-family:Arial, sans-serif;-inkscape-font-specification:'Arial, sans-serif, Normal';text-decoration-color:#000000;fill:#000000;stroke-width:1.14992;stroke-linejoin:round;-inkscape-stroke:none;stop-color:#000000"
+           x="182.54568"
+           y="317.72162"
+           id="text120"><tspan
+             sodipodi:role="line"
+             style="font-style:italic;stroke-width:1.14992"
+             x="182.54568"
+             y="317.72162"
+             id="tspan121">Nodes = Survey question</tspan><tspan
+             sodipodi:role="line"
+             style="font-style:italic;stroke-width:1.14992"
+             x="182.54568"
+             y="334.68814"
+             id="tspan122">Edges = Significant relationship</tspan></text>
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,852.56898,439.46252)"
+       id="g79"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text78"
+         style="stroke-width:1.01861">People in Household (Q25)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g81"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g80"
+         style="stroke-width:1.01861">
+        <path
+           d="m 255.50777,-179.95955 c 0,5.52285 -4.47716,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52284,0 10,4.47715 10,10 z"
+           id="path79"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,992.05004,202.3322)"
+       id="g82"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text81"
+         style="stroke-width:1.01861">Type of Home (Q22)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g84"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g83"
+         style="stroke-width:1.01861">
+        <path
+           d="m 63.736217,-40.980502 c 0,5.522848 -4.477152,10.000001 -10,10.000001 -5.522847,0 -10,-4.477153 -10,-10.000001 0,-5.522848 4.477153,-10.000001 10,-10.000001 5.522848,0 10,4.477153 10,10.000001 z"
+           id="path82"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,809.73417,363.478)"
+       id="g85"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text84"
+         style="stroke-width:1.01861">Age (Q1)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g87"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g86"
+         style="stroke-width:1.01861">
+        <path
+           d="m -41.831554,134.63419 c 0,5.52284 -4.477153,10 -10,10 -5.522848,0 -10,-4.47716 -10,-10 0,-5.52285 4.477152,-10 10,-10 5.522847,0 10,4.47715 10,10 z"
+           id="path85"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,647.97935,567.10272)"
+       id="g88"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text87"
+         style="stroke-width:1.01861">Rainfall worry (Q10)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g90"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g89"
+         style="stroke-width:1.01861">
+        <path
+           d="m -140.96295,77.065414 c 0,5.522848 -4.47715,10 -10,10 -5.52285,0 -10,-4.477152 -10,-10 0,-5.522847 4.47715,-10 10,-10 5.52285,0 10,4.477153 10,10 z"
+           id="path88"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,522.6436,490.08686)"
+       id="g91"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text90"
+         style="stroke-width:1.01861">Neighbourhood Flood</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,544.65843,510.61694)"
+       id="g92"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text91"
+         style="stroke-width:1.01861">Resilience (Q13)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g94"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g93"
+         style="stroke-width:1.01861">
+        <path
+           d="m -189.85603,330.91083 c 0,5.52285 -4.47716,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52284,0 10,4.47715 10,10 z"
+           id="path92"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,460.02083,784.41989)"
+       id="g95"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text94"
+         style="stroke-width:1.01861">Percieved Goverrnment</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,493.499,804.94994)"
+       id="g96"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text95"
+         style="stroke-width:1.01861">Urgency (Q11)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g98"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g97"
+         style="stroke-width:1.01861">
+        <path
+           d="m 30.746349,-143.69695 c 0,5.52285 -4.477152,10 -10,10 -5.522847,0 -10,-4.47715 -10,-10 0,-5.52284 4.477153,-10 10,-10 5.522848,0 10,4.47716 10,10 z"
+           id="path96"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,754.47964,244.37858)"
+       id="g99"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text98"
+         style="stroke-width:1.01861">Gender (Q18)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g101"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g100"
+         style="stroke-width:1.01861">
+        <path
+           d="m -246.7444,148.73897 c 0,5.52285 -4.47715,10 -9.99999,10 -5.52285,0 -9.99999,-4.47715 -9.99999,-10 0,-5.52285 4.47714,-10 9.99999,-10 5.52284,0 9.99999,4.47715 9.99999,10 z"
+           id="path99"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,427.59741,583.45717)"
+       id="g102"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="45.162037"
+         y="-6.3455005"
+         id="text101"
+         style="text-align:center;text-anchor:middle;stroke-width:1.01861"><tspan
+           sodipodi:role="line"
+           id="tspan461"
+           x="45.162037"
+           y="-6.3455005">Perceived Safety from</tspan><tspan
+           sodipodi:role="line"
+           id="tspan463"
+           x="45.162037"
+           y="9.9044991">Flooding (Q3)</tspan></text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g104"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g103"
+         style="stroke-width:1.01861">
+        <path
+           d="m 351.14151,-128.04701 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52285,0 10,4.47715 10,10 z"
+           id="path102"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,1089.4613,262.52464)"
+       id="g105"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text104"
+         style="stroke-width:1.01861">Residential Status (Q24)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g107"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g106"
+         style="stroke-width:1.01861">
+        <path
+           d="m 162.07918,-110.30994 c 0,5.52285 -4.47715,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52284 4.47715,-10 10,-10 5.52285,0 10,4.47716 10,10 z"
+           id="path105"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,848.1766,283.09073)"
+       id="g108"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text107"
+         style="stroke-width:1.01861">Time lived in Household (Q26)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g110"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g109"
+         style="stroke-width:1.01861">
+        <path
+           d="m 238.53667,-287.3367 c 0,5.52285 -4.47716,10 -10,10 -5.52285,0 -10,-4.47715 -10,-10 0,-5.52285 4.47715,-10 10,-10 5.52284,0 10,4.47715 10,10 z"
+           id="path108"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,1029.7418,77.828707)"
+       id="g111"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text110"
+         style="stroke-width:1.01861">Site</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g113"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g112"
+         style="stroke-width:1.01861">
+        <path
+           d="m -317.07391,60.06823 c 0,5.522847 -4.47716,10 -10,10 -5.52285,0 -10,-4.477153 -10,-10 0,-5.522848 4.47715,-10 10,-10 5.52284,0 10,4.477152 10,10 z"
+           id="path111"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,287.70111,470.37867)"
+       id="g114"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text113"
+         style="stroke-width:1.01861">Distance from Flooding Source</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,381.88772,490.90875)"
+       id="g115"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text114"
+         style="stroke-width:1.01861">(Q7)</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,777.80777,405.14627)"
+       id="g117"
+       style="stroke-width:1.01861">
+      <g
+         fill="#c7e9c0"
+         fill-rule="nonzero"
+         fill-opacity="1"
+         stroke="none"
+         id="g116"
+         style="stroke-width:1.01861">
+        <path
+           d="m -193.68544,-82.026367 c 0,5.522847 -4.47715,10 -10,10 -5.52285,0 -10,-4.477153 -10,-10 0,-5.522848 4.47715,-10 10,-10 5.52285,0 10,4.477152 10,10 z"
+           id="path115"
+           style="stroke-width:1.01861" />
+      </g>
+      <!-- drawing style -->
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,441.85625,305.6204)"
+       id="g118"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text117"
+         style="stroke-width:1.01861">Awareness of Flood Related</text>
+    </g>
+    <!-- transform -->
+    <g
+       transform="matrix(1.1594971,0,0,1.1594971,474.9425,326.15048)"
+       id="g119"
+       style="stroke-width:1.01861">
+      <text
+         font-weight="normal"
+         font-size="13px"
+         font-family="Helvetica"
+         font-style="normal"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="none"
+         x="0"
+         y="0"
+         id="text118"
+         style="stroke-width:1.01861">Digital Tools (Q14)</text>
+    </g>
+    <!-- transform -->
+  </g>
+  <!-- default stroke -->
+</svg>
+<!-- bounding box -->
+

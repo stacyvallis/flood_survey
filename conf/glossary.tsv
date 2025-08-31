@@ -1,0 +1,6 @@
+Term	Definition
+effect	Test statistic
+source	Source comparitor question of the test statistic
+target	target comparitor question of the test statistic
+pval	P-value of test
+qval	Adjusted p-value (FDR)
