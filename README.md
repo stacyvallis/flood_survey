@@ -7,7 +7,11 @@ It includes steps for formatting survey responses, performing statistical tests,
 ## Quick Start
 To run the full analysis, execute the following:
 
-bash code/analysis.sh
+bash analysis.ps1
+
+or:
+
+powershell -c analysis.ps1
 
 This will format the data, conduct statistical analyses, build a network of significant associations, and generate all figures and supplementary tables.
 
